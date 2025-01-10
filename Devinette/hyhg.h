@@ -1,0 +1,6 @@
+#ifndef HYHG_H_INCLUDED
+#define HYHG_H_INCLUDED
+
+
+
+#endif // HYHG_H_INCLUDED
