@@ -1,0 +1,3 @@
+PSEUDO          | MOT DE PASSE   
+----------------------------
+toto            | totorino       
