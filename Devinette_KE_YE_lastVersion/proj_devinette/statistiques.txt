@@ -1,0 +1,10 @@
+
+=== 🕒 PARTIE DU Sat Feb 08 16:28:31 2025
+👤 Pseudo : ali
+🎯 Niveau : Débutant
+🔢 Nombre secret : 96
+⏳ Tentatives : 100
+○  Espérance mathématiques : 7.850000 
+○  Variance : 643.427500
+○  Ecart-type : 25.365873
+----------------------------

@@ -1,0 +1,6 @@
+PSEUDO          | MOT DE PASSE   
+----------------------------
+toto            | totorino       
+ali             | ali            
+artemis         | artemisking    
+gedeon          | fffr           

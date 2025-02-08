@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1739028547 source:c:\users\essotina\desktop\proj_devinette\devinette.c
+	<stdio.h>
+	<locale.h>
+	"menu.h"
+
+1739013962 c:\users\essotina\desktop\proj_devinette\menu.h
+
+1739032026 source:c:\users\essotina\desktop\proj_devinette\fonctions.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	"fonctions.h"
+	"menu.h"
+
+1739032013 c:\users\essotina\desktop\proj_devinette\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1739031271 source:c:\users\essotina\desktop\proj_devinette\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"fonctions.h"
+
